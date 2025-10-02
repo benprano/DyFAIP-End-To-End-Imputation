@@ -2,11 +2,6 @@
 DyFAIP (Dynamic Frequency-Aware Imputation and Prediction) is a novel deep dynamic memory neural network designed to jointly perform missing data imputation and downstream prediction in an end-to-end framework. It is especially well-suited for irregularly sampled time series, such as those found in environmental or healthcare datasets.
 
 
-# DyFAIP
-
-DyFAIP (Dynamic Frequency-Aware Imputation and Prediction) is a novel deep dynamic memory neural network designed to jointly perform missing data imputation and downstream prediction in an end-to-end framework. It is especially well-suited for irregularly sampled time series, such as those found in environmental or healthcare datasets.
-
-
 ### 📘 How to Use DyFAIP on the Beijing Air Quality Multi-Site Dataset
 
 ### 🧹 1. Preprocess the Dataset
